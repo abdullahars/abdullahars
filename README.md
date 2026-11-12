@@ -73,10 +73,14 @@ I'm Abdullah, a developer interested in connecting **artificial intelligence, au
 
 ## 📊 GitHub activity
 
-### 💻 Languages & Technologies
+## 📊 GitHub activity
 
-![JavaScript](https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Go](https://img.shields.io/badge/Go-181818?style=for-the-badge&logo=go&logoColor=00ADD8)
+<div align="center">
+
+
+<img src="https://streak-stats.demolab.com/?user=abdullahars&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA" alt="GitHub streak" />
+
+</div>
 
 <div align="center">
 
