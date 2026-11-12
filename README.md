@@ -83,7 +83,9 @@ I'm Abdullah, a developer interested in connecting **artificial intelligence, au
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullahars&theme=tokyonight" alt="Most Used Languages" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullahars&theme=tokyonight" alt="Languages by Repository" />
+
 
 </div>
 
@@ -95,5 +97,7 @@ I'm Abdullah, a developer interested in connecting **artificial intelligence, au
 **AI + Automation + Web** · From ideas to working software.
 
 [Explore my repositories](https://github.com/abdullahars?tab=repositories)
+
+
 
 </div>
