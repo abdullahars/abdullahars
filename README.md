@@ -73,11 +73,6 @@ I'm Abdullah, a developer interested in connecting **artificial intelligence, au
 
 ## 📊 GitHub activity
 
-## 📊 GitHub activity
-
-
-### 📊 GitHub Activity
-
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=abdullahars&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
