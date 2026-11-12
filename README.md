@@ -73,11 +73,10 @@ I'm Abdullah, a developer interested in connecting **artificial intelligence, au
 
 ## 📊 GitHub activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahars&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
+### 💻 Languages & Technologies
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Go](https://img.shields.io/badge/Go-181818?style=for-the-badge&logo=go&logoColor=00ADD8)
 
 <div align="center">
 
