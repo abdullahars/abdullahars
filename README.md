@@ -73,14 +73,9 @@ I'm Abdullah, a developer interested in connecting **artificial intelligence, au
 
 ## 📊 GitHub activity
 
-<div align="center">
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahars&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-
-<img src="https://streak-stats.demolab.com/?user=abdullahars&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA" alt="GitHub streak" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahars&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
 
 ---
 
