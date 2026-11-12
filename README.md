@@ -58,10 +58,9 @@ I'm Abdullah, a developer interested in connecting **artificial intelligence, au
 
 | Project | Description |
 |:--|:--|
-| [discord-patlatma-botu](https://github.com/abdullahars/discord-patlatma-botu) | JavaScript-based Discord bot project |
+| 🚧 WhatsApp AI Chatbot (In Development) | 🤖 AI-powered WhatsApp assistant with automated replies, smart conversations and workflow integrations. Coming soon... |
 | [fivem-bot](https://github.com/abdullahars/fivem-bot) | FiveM-related Discord bot |
-| [Go-ile-Basit-Asal-mi-degil-mi](https://github.com/abdullahars/Go-ile-Basit-Asal-mi-degil-mi) | A simple Go programming project |
-| [Sayi-Tahmin-Etme](https://github.com/abdullahars/Sayi-Tahmin-Etme) | Number guessing project in Go |
+
 
 ## 🧭 Ideas I'm exploring
 
